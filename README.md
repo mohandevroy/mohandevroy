@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Dev Roy</h1>
-<h3 align="center">CSE Student | Competitive Programmer | Future AI Researcher</h3>
+<h3 align="center">CSE Student | Programmer | Future AI Researcher</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
