@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohan Dev Roy</h1>
+<h3 align="center">CSE Student | Competitive Programmer | Future AI Researcher</h3>
 
-<!--
-**mohandevroy/mohandevroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohandevroy&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+
+- Deep Learning
+- Machine Learning
+- Data Structures & Algorithms
+- Research and Problem Solving
+
+---
+
+## 📫 Contact Me
+
+📧 Email: mohan.dev@northsouth.edu
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/mohandevroy" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohan-dev-roy-026032248" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+## 💻 Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,mysql,git,github,vscode,photoshop,blender" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohandevroy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=mohandevroy&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohandevroy&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Competitive Programming
+
+<p align="left">
+🚀 Solving problems and improving algorithmic thinking every day.
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```cpp
+while(!success){
+    try_again();
+}
